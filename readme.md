@@ -8,7 +8,7 @@
 [Step by step](https://lostechies.com/seanbiefeld/2009/08/26/step-by-step-to-using-machine-specifications-with-resharper)  
 
 **3. Then try**  
-[FizzBuzz](http://kata-log.rocks/fizz-buzz-kata)
+[FizzBuzz](./FizzBuzz.docx)
 [FizzBuzz MSpec Example](https://github.com/AdamKalnas/fizz-buzz)  
-[String Kata](http://osherove.com/tdd-kata-1)  
+[String Kata](./StringCalculator.docx)
 [String Kata Mspec Example](https://github.com/SaberZA/MachineSpecBDD)  
