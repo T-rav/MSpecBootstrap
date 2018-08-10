@@ -5,7 +5,7 @@
 
 **2. On your own read**  
 [MSpec Wiki](https://github.com/machine/machine.specifications/wiki)  
-[Step by step](https://lostechies.com/seanbiefeld/2009/08/26/step-by-step-to-using-machine-specifications-with-resharper)  
+[Step by step](https://lostechies.com/seanbiefeld/2009/08/26/step-by-step-to-using-machine-specifications-with-resharper) - You can safely ignore the resharper setup stuff    
 
 **3. Then try**  
 [FizzBuzz](./FizzBuzz.docx)  
