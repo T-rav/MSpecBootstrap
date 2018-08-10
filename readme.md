@@ -1,4 +1,4 @@
-**1. What the following videos**
+**1. Watch the following videos**  
 [What is BDD](https://www.youtube.com/watch?v=VS6EEUVZGLE&t=116s&index=2&list=PL0X82GOpevvZ4GBTaRH5uka96dGw-iqYu)  
 [TDD v BDD](https://www.youtube.com/watch?v=4QFYTQy47yA&t=0s&index=3&list=PL0X82GOpevvZ4GBTaRH5uka96dGw-iqYu)  
 [Machine.Specifications Part 1](https://vimeo.com/11642767)  
