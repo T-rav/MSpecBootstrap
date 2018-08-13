@@ -12,3 +12,5 @@
 [FizzBuzz MSpec Example](https://github.com/AdamKalnas/fizz-buzz)  
 [String Kata](./StringCalculator.docx)  
 [String Kata Mspec Example](https://github.com/SaberZA/MachineSpecBDD)  
+
+** Please note:** You will need to include the [Machine.Specifications.Runner for Visual Studio](https://www.nuget.org/packages/Machine.Specifications.Runner.VisualStudio/) to execute your test.
